@@ -1,0 +1,51 @@
+[ {
+  "uid" : "5fa315f35431cfc9",
+  "name" : "Secenario 4 & 5 = Validate WP DarkMode plugin Dashbord",
+  "time" : {
+    "start" : 1695042693363,
+    "stop" : 1695042716809,
+    "duration" : 23446
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "507c0c564169fa9",
+  "name" : "Secenario 6 to 11",
+  "time" : {
+    "start" : 1695042716835,
+    "stop" : 1695042761475,
+    "duration" : 44640
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "520bafce387ce7e5",
+  "name" : "Secenario 1 = Before WP DarkMode plugin Dashbord looks like",
+  "time" : {
+    "start" : 1695042632470,
+    "stop" : 1695042651150,
+    "duration" : 18680
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "308766644d8f308d",
+  "name" : "Scenario 2 & 3 = WP Dark Mode Installation",
+  "time" : {
+    "start" : 1695042651275,
+    "stop" : 1695042693330,
+    "duration" : 42055
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "876a36225e773e2b",
+  "name" : "Dark Mode Validation",
+  "time" : {
+    "start" : 1695042761500,
+    "stop" : 1695042781717,
+    "duration" : 20217
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

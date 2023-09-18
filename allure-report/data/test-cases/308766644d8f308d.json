@@ -1,0 +1,109 @@
+{
+  "uid" : "308766644d8f308d",
+  "name" : "Scenario 2 & 3 = WP Dark Mode Installation",
+  "fullName" : "TestPages.PlugInInstallDirectoryPage.pluginInstall",
+  "historyId" : "1016d3a18dff4a5fe85abc0dab2241c3",
+  "time" : {
+    "start" : 1695042651275,
+    "stop" : 1695042693330,
+    "duration" : 42055
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1695042613243,
+      "stop" : 1695042632191,
+      "duration" : 18948
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6b2f1189377d5196",
+      "name" : "Plugin Install",
+      "source" : "6b2f1189377d5196.png",
+      "type" : "image/png",
+      "size" : 100710
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1695042781905,
+      "stop" : 1695042784062,
+      "duration" : 2157
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestPages.PlugInInstallDirectoryPage"
+  }, {
+    "name" : "testClass",
+    "value" : "TestPages.PlugInInstallDirectoryPage"
+  }, {
+    "name" : "testMethod",
+    "value" : "pluginInstall"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPages.PlugInInstallDirectoryPage"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HCMDDC7"
+  }, {
+    "name" : "thread",
+    "value" : "13720@DESKTOP-HCMDDC7.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "308766644d8f308d.json",
+  "parameterValues" : [ ]
+}

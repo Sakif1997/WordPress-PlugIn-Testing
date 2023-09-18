@@ -1,0 +1,73 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-HCMDDC7",
+    "children" : [ {
+      "name" : "13720@DESKTOP-HCMDDC7.main(1)",
+      "children" : [ {
+        "name" : "Scenario 2 & 3 = WP Dark Mode Installation",
+        "uid" : "308766644d8f308d",
+        "parentUid" : "04843957ab56de305362151f9dce4e3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695042651275,
+          "stop" : 1695042693330,
+          "duration" : 42055
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Secenario 4 & 5 = Validate WP DarkMode plugin Dashbord",
+        "uid" : "5fa315f35431cfc9",
+        "parentUid" : "04843957ab56de305362151f9dce4e3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695042693363,
+          "stop" : 1695042716809,
+          "duration" : 23446
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Secenario 6 to 11",
+        "uid" : "507c0c564169fa9",
+        "parentUid" : "04843957ab56de305362151f9dce4e3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695042716835,
+          "stop" : 1695042761475,
+          "duration" : 44640
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Secenario 1 = Before WP DarkMode plugin Dashbord looks like",
+        "uid" : "520bafce387ce7e5",
+        "parentUid" : "04843957ab56de305362151f9dce4e3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695042632470,
+          "stop" : 1695042651150,
+          "duration" : 18680
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Dark Mode Validation",
+        "uid" : "876a36225e773e2b",
+        "parentUid" : "04843957ab56de305362151f9dce4e3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695042761500,
+          "stop" : 1695042781717,
+          "duration" : 20217
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "04843957ab56de305362151f9dce4e3b"
+    } ],
+    "uid" : "87177cfd81531c20dadd9d12dc55f190"
+  } ]
+}

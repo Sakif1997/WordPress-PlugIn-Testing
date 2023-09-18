@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Sep 18 19:10:51 BDT 2023","Mon Sep 18 19:11:33 BDT 2023","42055","Suite","Test","TestPages.PlugInInstallDirectoryPage","TestPages.PlugInInstallDirectoryPage","pluginInstall","Scenario 2 & 3 = WP Dark Mode Installation",""
+"passed","Mon Sep 18 19:11:33 BDT 2023","Mon Sep 18 19:11:56 BDT 2023","23446","Suite","Test","TestPages.ValidateDarkmodeAdminDashbord","TestPages.ValidateDarkmodeAdminDashbord","ValidateDarkModeDashbord","Secenario 4 & 5 = Validate WP DarkMode plugin Dashbord",""
+"passed","Mon Sep 18 19:11:56 BDT 2023","Mon Sep 18 19:12:41 BDT 2023","44640","Suite","Test","TestPages.Switch_Accessibility_AnimationSettings","TestPages.Switch_Accessibility_AnimationSettings","AllSettingsSecenario6to12","Secenario 6 to 11",""
+"passed","Mon Sep 18 19:10:32 BDT 2023","Mon Sep 18 19:10:51 BDT 2023","18680","Suite","Test","TestPages.LoginToDashbord","TestPages.LoginToDashbord","WPlogin","Secenario 1 = Before WP DarkMode plugin Dashbord looks like",""
+"passed","Mon Sep 18 19:12:41 BDT 2023","Mon Sep 18 19:13:01 BDT 2023","20217","Suite","Test","TestPages.BackendDarkModeValidation","TestPages.BackendDarkModeValidation","DarkModeValidationBackEnd","Dark Mode Validation",""

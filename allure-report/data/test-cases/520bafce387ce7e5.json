@@ -1,0 +1,109 @@
+{
+  "uid" : "520bafce387ce7e5",
+  "name" : "Secenario 1 = Before WP DarkMode plugin Dashbord looks like",
+  "fullName" : "TestPages.LoginToDashbord.WPlogin",
+  "historyId" : "3031c0fe5da8adf219ddd3ed4125ff7f",
+  "time" : {
+    "start" : 1695042632470,
+    "stop" : 1695042651150,
+    "duration" : 18680
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1695042613243,
+      "stop" : 1695042632191,
+      "duration" : 18948
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d2e0593fe066cf4a",
+      "name" : "Dashbord Before plugin",
+      "source" : "d2e0593fe066cf4a.png",
+      "type" : "image/png",
+      "size" : 115830
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1695042781905,
+      "stop" : 1695042784062,
+      "duration" : 2157
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestPages.LoginToDashbord"
+  }, {
+    "name" : "testClass",
+    "value" : "TestPages.LoginToDashbord"
+  }, {
+    "name" : "testMethod",
+    "value" : "WPlogin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPages.LoginToDashbord"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HCMDDC7"
+  }, {
+    "name" : "thread",
+    "value" : "13720@DESKTOP-HCMDDC7.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "520bafce387ce7e5.json",
+  "parameterValues" : [ ]
+}

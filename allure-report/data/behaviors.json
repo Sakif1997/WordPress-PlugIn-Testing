@@ -1,0 +1,65 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Secenario 1 = Before WP DarkMode plugin Dashbord looks like",
+    "uid" : "520bafce387ce7e5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1695042632470,
+      "stop" : 1695042651150,
+      "duration" : 18680
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Scenario 2 & 3 = WP Dark Mode Installation",
+    "uid" : "308766644d8f308d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1695042651275,
+      "stop" : 1695042693330,
+      "duration" : 42055
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Secenario 4 & 5 = Validate WP DarkMode plugin Dashbord",
+    "uid" : "5fa315f35431cfc9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1695042693363,
+      "stop" : 1695042716809,
+      "duration" : 23446
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Secenario 6 to 11",
+    "uid" : "507c0c564169fa9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1695042716835,
+      "stop" : 1695042761475,
+      "duration" : 44640
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Dark Mode Validation",
+    "uid" : "876a36225e773e2b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1695042761500,
+      "stop" : 1695042781717,
+      "duration" : 20217
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

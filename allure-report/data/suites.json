@@ -1,0 +1,93 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "Test",
+      "children" : [ {
+        "name" : "TestPages.LoginToDashbord",
+        "children" : [ {
+          "name" : "Secenario 1 = Before WP DarkMode plugin Dashbord looks like",
+          "uid" : "520bafce387ce7e5",
+          "parentUid" : "dca98f9b90f74ad5fb55f172d9fb6c33",
+          "status" : "passed",
+          "time" : {
+            "start" : 1695042632470,
+            "stop" : 1695042651150,
+            "duration" : 18680
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "dca98f9b90f74ad5fb55f172d9fb6c33"
+      }, {
+        "name" : "TestPages.PlugInInstallDirectoryPage",
+        "children" : [ {
+          "name" : "Scenario 2 & 3 = WP Dark Mode Installation",
+          "uid" : "308766644d8f308d",
+          "parentUid" : "9f92b4e4ed3215238b392dd9f8aa3e33",
+          "status" : "passed",
+          "time" : {
+            "start" : 1695042651275,
+            "stop" : 1695042693330,
+            "duration" : 42055
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9f92b4e4ed3215238b392dd9f8aa3e33"
+      }, {
+        "name" : "TestPages.ValidateDarkmodeAdminDashbord",
+        "children" : [ {
+          "name" : "Secenario 4 & 5 = Validate WP DarkMode plugin Dashbord",
+          "uid" : "5fa315f35431cfc9",
+          "parentUid" : "931ab6ec3fc611a91d7f95eee64631aa",
+          "status" : "passed",
+          "time" : {
+            "start" : 1695042693363,
+            "stop" : 1695042716809,
+            "duration" : 23446
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "931ab6ec3fc611a91d7f95eee64631aa"
+      }, {
+        "name" : "TestPages.Switch_Accessibility_AnimationSettings",
+        "children" : [ {
+          "name" : "Secenario 6 to 11",
+          "uid" : "507c0c564169fa9",
+          "parentUid" : "b26c8f8b7f8fa55f4d6d2bc3a605181f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1695042716835,
+            "stop" : 1695042761475,
+            "duration" : 44640
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b26c8f8b7f8fa55f4d6d2bc3a605181f"
+      }, {
+        "name" : "TestPages.BackendDarkModeValidation",
+        "children" : [ {
+          "name" : "Dark Mode Validation",
+          "uid" : "876a36225e773e2b",
+          "parentUid" : "a94256549685ca766f7b83617e28779f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1695042761500,
+            "stop" : 1695042781717,
+            "duration" : 20217
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a94256549685ca766f7b83617e28779f"
+      } ],
+      "uid" : "7314231e84d67a341867b5c9d3f928d2"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  } ]
+}

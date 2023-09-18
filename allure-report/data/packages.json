@@ -1,0 +1,89 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "TestPages",
+    "children" : [ {
+      "name" : "LoginToDashbord",
+      "children" : [ {
+        "name" : "WPlogin",
+        "uid" : "520bafce387ce7e5",
+        "parentUid" : "9f26d3ecf84c19e657b37cfb6a04a7a8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695042632470,
+          "stop" : 1695042651150,
+          "duration" : 18680
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9f26d3ecf84c19e657b37cfb6a04a7a8"
+    }, {
+      "name" : "PlugInInstallDirectoryPage",
+      "children" : [ {
+        "name" : "pluginInstall",
+        "uid" : "308766644d8f308d",
+        "parentUid" : "1c38c6f6c2d18e3bd5de14a340ab9ea9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695042651275,
+          "stop" : 1695042693330,
+          "duration" : 42055
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1c38c6f6c2d18e3bd5de14a340ab9ea9"
+    }, {
+      "name" : "ValidateDarkmodeAdminDashbord",
+      "children" : [ {
+        "name" : "ValidateDarkModeDashbord",
+        "uid" : "5fa315f35431cfc9",
+        "parentUid" : "425b022a79aa099426eba4f1b78e156c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695042693363,
+          "stop" : 1695042716809,
+          "duration" : 23446
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "425b022a79aa099426eba4f1b78e156c"
+    }, {
+      "name" : "Switch_Accessibility_AnimationSettings",
+      "children" : [ {
+        "name" : "AllSettingsSecenario6to12",
+        "uid" : "507c0c564169fa9",
+        "parentUid" : "0a7fc40225eb26996c14a3bee417fc37",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695042716835,
+          "stop" : 1695042761475,
+          "duration" : 44640
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0a7fc40225eb26996c14a3bee417fc37"
+    }, {
+      "name" : "BackendDarkModeValidation",
+      "children" : [ {
+        "name" : "DarkModeValidationBackEnd",
+        "uid" : "876a36225e773e2b",
+        "parentUid" : "853a3459fa5f69f7fccbda89019cbb94",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695042761500,
+          "stop" : 1695042781717,
+          "duration" : 20217
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "853a3459fa5f69f7fccbda89019cbb94"
+    } ],
+    "uid" : "1902eee52a9e28a6fed7e26e07ea38db"
+  } ]
+}
