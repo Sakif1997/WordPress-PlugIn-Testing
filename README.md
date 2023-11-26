@@ -56,7 +56,7 @@ iii) TestCases [package name: Testpages ]
 i) pom.xml [dependencies set for allure report]
 ii) Testng.xml [to run all test file togather]
 
-Package Visualization:
+Package Visualization:  
 ![PackagesAndClass](https://github.com/Sakif1997/Daraz-AutomationTesting-PageObjectModeling/assets/45315685/5fbc5c13-c8d7-4c3c-bd12-0490bacf9031)
 
 
@@ -212,7 +212,7 @@ Login to Dashbord
 1. Log in to your WordPress site.
 2. Check whether the “WP Dark Mode” Plugin is Active or not.
 Login to Dashbord page objects and there intented xpaths
-Overview of the sleecing path of the login page image:
+Overview of the sleecing path of the login page image:  
 ![login fields paths](https://github.com/Sakif1997/Daraz-AutomationTesting-PageObjectModeling/assets/45315685/472d4c39-0201-473e-858e-a0dfe5d5a4e2)
 
 Fields xpath:
@@ -276,7 +276,7 @@ Replication of three, four, and five scenarios(3,4, and 5):
 5. Validate whether the Darkmode is working or not on the Admin Dashboard.
 To replicate those scenario:
 Fields xpath:
-Overview of the sleecing path of the login page image:
+Overview of the sleecing path of the login page image:  
 ![inspectInstall](https://github.com/Sakif1997/Daraz-AutomationTesting-PageObjectModeling/assets/45315685/b0025c3d-7a7e-4b84-b111-e0b99e0c850e)
 
 PlugIn menu option = "//div[@class='wp-menu-image dashicons-before dashicons-admin-plugins']"
@@ -288,7 +288,7 @@ Install plugin button = "//a[@aria-label='Install WP Dark Mode – Best Dark Mod
 ACTIVATE button= "//a[normalize-space()='Activate']"
 
 After login to dashbord go to plugin option in the menu bar and hover to wait add plugins option is visible, then click it and wait for track the Add plugins page visible then fill up search field to search WP Dark Mode when the desire plug in option visible then install it and wait for activation button appears and the activate it.
-Videp guidence:
+Videp guidence:  
 ![inspectInstall](https://github.com/Sakif1997/Daraz-AutomationTesting-PageObjectModeling/assets/45315685/b0025c3d-7a7e-4b84-b111-e0b99e0c850e)
 
 Plugin install to activation
@@ -360,7 +360,7 @@ Setting Page ="//h2[normalize-space()='WP Dark Mode Settings']")
 Enable option Backend DarkMode = "(//div[@class='wp-dark-mode-ignore'])[2]DASHBORD = "//div[normalize-space()='Dashboard']"
 Dark Mode button = "//p[@class='dark wp-dark-mode-ignore']"
 
-Dark mode plugin settings and options appear image:
+Dark mode plugin settings and options appear image:  
 ![Wp Dark mode on dashbord](https://github.com/Sakif1997/Daraz-AutomationTesting-PageObjectModeling/assets/45315685/d246d1c3-5538-44bc-994e-d376a4754cfd)
 Validate whether the Darkmode is working or not on the Admin Dashboard by using dedicated xpaths.
 
@@ -447,7 +447,7 @@ Animation Effect option  = "//label[normalize-space()='Animation Effect']"
 Animation Effect Select option = "//select[contains(@id,'wp_dark_mode_animation')]"
 Animation Save Button ="(//input[@id='save_settings'])[13]"
 
-Select xpath overview:
+Select xpath overview:  
 ![Switch settings](https://github.com/Sakif1997/Daraz-AutomationTesting-PageObjectModeling/assets/45315685/97b9bbc1-47a2-4efe-a7a1-05fbdccb11ce)
 
 Execution Video:
@@ -551,7 +551,7 @@ DARKMODE SWITCH = "//label[@for='wp-dark-mode-switch']"
 
 To validate whether darkmode is working or not, check the visit site by xpath, then when the site page appears, use the wait element to see whether the desired site page appears or not. When it appears, inspect the visible darkmode switch, and by clicking the switch, it will validate the changes executed by that switch, which leads to darkmode validation.
 
-Darkmode Switch Validation image:
+Darkmode Switch Validation image:  
 ![12](https://github.com/Sakif1997/Daraz-AutomationTesting-PageObjectModeling/assets/45315685/555b3290-60bc-4fa5-9d76-677bcea81075)
 
 Scenario 12 Execution video:
@@ -612,12 +612,12 @@ https://drive.google.com/file/d/1s9aqVHH1KHOfTLRNIgbcT02dc4eeuP4F/view?usp=drive
 
 To run the whole test scenario togather:
 By convert the whole test run files to TestNG
--instruction image 
+-instruction image   
 ![cnvt](https://github.com/Sakif1997/Daraz-AutomationTesting-PageObjectModeling/assets/45315685/c4c7161e-1404-4e97-ac12-e3f657f2d92c)
--After clicking Convert to TestNG  click on finish option
+-After clicking Convert to TestNG  click on finish option  
 ![Finish option](https://github.com/Sakif1997/Daraz-AutomationTesting-PageObjectModeling/assets/45315685/80f56833-9c24-4888-843d-4d5e7cecba26)
 
--Now you can ovserve a Testng.xml file under pom.xml file and run that file to see whole testing procedure togather
+-Now you can ovserve a Testng.xml file under pom.xml file and run that file to see whole testing procedure togather  
 ![testngxmlfile](https://github.com/Sakif1997/Daraz-AutomationTesting-PageObjectModeling/assets/45315685/37ed2a6f-789c-41d5-b853-e9ce3cc0161a)
 
 
@@ -632,10 +632,10 @@ first set dependency in the pom.xml file.
 </dependency>
 2. then run the testing.xml file 
 3. then refresh the whole package and see a "allure-results" file created under Maven Dependencies
--before refresh
+-before refresh  
 ![beforeallure](https://github.com/Sakif1997/Daraz-AutomationTesting-PageObjectModeling/assets/45315685/4420d77c-b9ab-4350-b7d8-d6fd85cd686a)
 
--after runing the testng.xml file and refresh the whole package allure reasult appear
+-after runing the testng.xml file and refresh the whole package allure reasult appear  
 ![allure result](https://github.com/Sakif1997/Daraz-AutomationTesting-PageObjectModeling/assets/45315685/b7056999-6690-43eb-b031-3113831ac649)
 
 
@@ -657,28 +657,28 @@ public void takeScreenshot(String name) {
 file link: http://192.168.0.4:58373/
 File generation instruction video: https://drive.google.com/file/d/1NXQ0IShmoAQHU3SiEziYfoiopfQ3AKXX/view?usp=drive_link
 
-report overview:
+report overview:  
 ![Report overview](https://github.com/Sakif1997/Daraz-AutomationTesting-PageObjectModeling/assets/45315685/2347362b-7323-4864-8e95-b75c1c67543c)
 
 
-Login to Dashbord Page Report:
+Login to Dashbord Page Report:  
 ![login to dashbord report](https://github.com/Sakif1997/Daraz-AutomationTesting-PageObjectModeling/assets/45315685/5d951251-5d11-45b2-b0ca-d014024304eb)
 
 
-Plugin installation report:
+Plugin installation report:  
 ![Plugin installation report](https://github.com/Sakif1997/Daraz-AutomationTesting-PageObjectModeling/assets/45315685/97ff814e-8f2a-4f0f-887d-625616db7ea5)
 
-Scenario 4 & 5 page Report:
+Scenario 4 & 5 page Report:  
 ![scenario 4 5 reports](https://github.com/Sakif1997/Daraz-AutomationTesting-PageObjectModeling/assets/45315685/f1a36ce5-afc5-4025-abd7-8c67bebe9212)
 
-Settings (6-11) page report:
+Settings (6-11) page report:  
 ![Setting report](https://github.com/Sakif1997/Daraz-AutomationTesting-PageObjectModeling/assets/45315685/6203f1ec-a073-4fa8-9b29-cb489cb6bf49)
 
 
-Dark Moda validate report:
+Dark Moda validate report:  
 ![Dark mode validation report](https://github.com/Sakif1997/Daraz-AutomationTesting-PageObjectModeling/assets/45315685/88a19fc6-f170-4ac3-9046-ed5c171127d1)
 
-Total Report graph:
+Total Report graph:  
 ![Total report](https://github.com/Sakif1997/Daraz-AutomationTesting-PageObjectModeling/assets/45315685/ef3364cc-294c-4d8d-9081-c1a4cfc3c1c9)
 
 
